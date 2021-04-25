@@ -16,7 +16,7 @@ namespace Lab3
 
             int result = firstNumber % secondNumber;
 
-            Console.WriteLine(result);
+            Console.WriteLine($"Your remainder for the division is {result}");
 
 
         }
